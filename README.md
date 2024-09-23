@@ -1,0 +1,1 @@
+# plugins-editor-full-width
